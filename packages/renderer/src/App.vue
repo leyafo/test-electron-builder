@@ -12,7 +12,7 @@ const APP_VERSION = import.meta.env.VITE_APP_VERSION;
     src="../assets/logo.svg"
     width="150"
   />
-
+  <h1>hello slippod</h1>
   <p>
     <!-- Example how to inject current app version to UI -->
     App version: {{ APP_VERSION }}
